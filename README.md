@@ -34,6 +34,11 @@ Install python from the site above if you are on windows or by using the command
 $ sudo apt update
 $ sudo apt install software-properties-common
 ```
+After youve run those commands:
+```sh
+$ sudo apt-get update
+$ sudo apt-get install python3.8
+```
 
 After you have installed python 3.8 then your ready to install SimpleCalc
 
