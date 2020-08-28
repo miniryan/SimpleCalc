@@ -21,6 +21,7 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 
  - Add support for linux and mac
  - Fix bugs
+ - Make program faster in general
 
 
 ### Installation
@@ -34,6 +35,18 @@ $ sudo apt update
 $ sudo apt install software-properties-common
 ```
 
+After you have installed python 3.8 then your ready to install SimpleCalc
+
+#### Windows
+> To install simple calc for windows download the
+> installer or the exe file above and and install it to > the desired location.
+
+#### Linux
+> Support for Linux coming really soon!
+#### Mac
+> Support for Mac coming really soon!
+
+## Thank you for viewing my project!
 
 
 
