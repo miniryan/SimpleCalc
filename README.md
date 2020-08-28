@@ -40,12 +40,13 @@ After you have installed python 3.8 then your ready to install SimpleCalc
 #### Windows
 > To install simple calc for windows download the
 > installer or the exe file above and and install it to > the desired location.
-
+> You can also just compile the python yourself by downloading it above
 #### Linux
 > Support for Linux coming really soon!
+> You can also just compile the python yourself by downloading it above
 #### Mac
 > Support for Mac coming really soon!
-
+> You can also just compile the python yourself by downloading it above
 ## Thank you for viewing my project!
 
 
